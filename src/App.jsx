@@ -20,14 +20,18 @@ import Email from './Add/Email';
 import Maps from './Add/Maps';
 import Footer from './Add/Footer';
 
+import Homepg from './Page.jsx/Homepg'
+import Pagepg from './Page.jsx/Pagepg'
+import Elemepg from './Page.jsx/Elemepg'
+
 
 function App() {
   return (
 
     <>
 
-      <Header></Header>
-      <Hero></Hero>
+      {/* <Header></Header> */}
+      {/* <Hero></Hero>
       <Story></Story>
       <Team></Team>
       <Service></Service>
@@ -44,7 +48,15 @@ function App() {
       <News1></News1>
       <Email></Email>
       <Maps></Maps>
-      <Footer></Footer>
+      <Footer></Footer> */}
+
+      <Homepg></Homepg>
+      <Pagepg></Pagepg>
+      <Elemepg></Elemepg>
+
+
+
+
 
 
     </>
