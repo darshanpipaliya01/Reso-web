@@ -4,28 +4,28 @@
 //     return (
 
 //         <Box sx={{ display: 'flex', padding: '20px', paddingTop: '60px' }}>
-//             <Box>
-//                 <Typography>
-//                     <img style={{ width: '400px' }} src="https://resonance-react-app.netlify.app/assets/images/blog/post-prev-1.jpg" alt="" />
-//                 </Typography>
-//                 <Typography sx={{ padding: '10px', paddingTop: '10px', fontSize: '22px', fontFamily: 'inherit', fontWeight: '500' }}>
-//                     Spotlight — Equinox Collection <br /> by Shane Griffin
-//                 </Typography>
-//                 <Typography sx={{ padding: '10px', fontSize: '16px', color: '#757575', fontFamily: 'inherit', fontWeight: '500' }}>
-//                     Looking for inspiration to kick it off, I <br /> stumbled across the work of Shane <br /> Griffin, an artist and director based in <br /> New York...
-//                 </Typography>
-//                 <Box sx={{ display: 'flex' }}>
-//                     <Typography sx={{ paddingTop: '10px', padding: '10px' }}>
-//                         <img style={{ borderRadius: '100px', width: '40px' }} src="https://resonance-react-app.netlify.app/assets/images/blog/author/author-1.jpg" alt="" />
-//                     </Typography>
-//                     <Typography sx={{ padding: '6px', paddingTop: '16px', fontFamily: 'inherit', fontSize: '16px', fontWeight: '500', color: '#757575' }}>
-//                         Admam Smith
-//                     </Typography>
-//                     <Typography sx={{ padding: '10px', ml: 10, paddingTop: '18px', fontFamily: 'inherit', color: '#757575', fontWeight: '500' }}>
-//                         August 3
-//                     </Typography>
-//                 </Box>
-//             </Box>
+            // <Box>
+            //     <Typography>
+            //         <img style={{ width: '400px' }} src="https://resonance-react-app.netlify.app/assets/images/blog/post-prev-1.jpg" alt="" />
+            //     </Typography>
+            //     <Typography sx={{ padding: '10px', paddingTop: '10px', fontSize: '22px', fontFamily: 'inherit', fontWeight: '500' }}>
+            //         Spotlight — Equinox Collection <br /> by Shane Griffin
+            //     </Typography>
+            //     <Typography sx={{ padding: '10px', fontSize: '16px', color: '#757575', fontFamily: 'inherit', fontWeight: '500' }}>
+            //         Looking for inspiration to kick it off, I <br /> stumbled across the work of Shane <br /> Griffin, an artist and director based in <br /> New York...
+            //     </Typography>
+            //     <Box sx={{ display: 'flex' }}>
+            //         <Typography sx={{ paddingTop: '10px', padding: '10px' }}>
+            //             <img style={{ borderRadius: '100px', width: '40px' }} src="https://resonance-react-app.netlify.app/assets/images/blog/author/author-1.jpg" alt="" />
+            //         </Typography>
+            //         <Typography sx={{ padding: '6px', paddingTop: '16px', fontFamily: 'inherit', fontSize: '16px', fontWeight: '500', color: '#757575' }}>
+            //             Admam Smith
+            //         </Typography>
+            //         <Typography sx={{ padding: '10px', ml: 10, paddingTop: '18px', fontFamily: 'inherit', color: '#757575', fontWeight: '500' }}>
+            //             August 3
+            //         </Typography>
+            //     </Box>
+            // </Box>
 
 //             <Box sx={{ marginLeft: '20px' }}>
 //                 <Typography>

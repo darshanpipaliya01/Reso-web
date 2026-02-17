@@ -8,11 +8,12 @@ function Header() {
         <Box sx={{ padding: '40px', paddingTop: '30px', display: 'flex' }}>
             <Box>
                 <Typography>
+                    
                     <img style={{ width: '50%' }} src="https://resonance-react-app.netlify.app/assets/images/logo-dark.svg" alt="" />
                 </Typography>
             </Box>
 
-        {/* header 2 ===========================  */}
+            {/* header 2 ===========================  */}
 
             <Box sx={{ display: 'flex', marginLeft: '80px', paddingTop: '10px' }}>
                 <Typography sx={{ fontFamily: 'inherit', fontWeight: '600', fontSize: '16px' }}>
@@ -32,7 +33,7 @@ function Header() {
                 </Typography>
             </Box>
 
-        {/* header 3 ===================  */}
+            {/* header 3 ===================  */}
 
             <Box sx={{ display: 'flex', marginLeft: '100px', paddingTop: '10px' }}>
                 <Typography sx={{ fontFamily: 'inherit', fontWeight: '600', fontSize: '16px' }}>
@@ -52,4 +53,6 @@ function Header() {
 export default Header;
 
 
-// =============================================
+// // =============================================
+
+

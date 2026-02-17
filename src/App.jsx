@@ -23,6 +23,9 @@ import Footer from './Add/Footer';
 import Homepg from './Page.jsx/Homepg'
 import Pagepg from './Page.jsx/Pagepg'
 import Elemepg from './Page.jsx/Elemepg'
+import Portpg from './Page.jsx/Portpg';
+import Blogpg from './Page.jsx/Blogpg';
+
 
 
 function App() {
@@ -50,10 +53,13 @@ function App() {
       <Maps></Maps>
       <Footer></Footer> */}
 
-      <Homepg></Homepg>
-      <Pagepg></Pagepg>
-      <Elemepg></Elemepg>
+      {/* <Homepg></Homepg> */}
+      {/* <Pagepg></Pagepg> */}
+      {/* <Elemepg></Elemepg>  */}
+      {/* <Portpg></Portpg> */}
+      <Blogpg></Blogpg>
 
+      
 
 
 
